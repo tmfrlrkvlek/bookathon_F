@@ -1,4 +1,4 @@
-# Checkable : 부스트캠프 출석조회 어플 🗓
+# Checkable : 부스트캠프 출석조회 앱 🗓
 
 <center>
 <br>
